@@ -1,0 +1,3 @@
+LoadingFrame
+============
+tell you how to use loadingView....
